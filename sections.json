@@ -1,0 +1,53 @@
+{
+  "sections": [
+    {
+      "title": "Beasts",
+      "subtitle": "Wild of the Land",
+      "image": "bestiary_cards_beasts"
+       },
+    {
+      "title": "Cursed Ones",
+      "subtitle": "Damned and cursed",
+      "image": "bestiary_cards_cursedones"
+       },
+    {
+      "title": "Draconids",
+      "subtitle": "The flying predators",
+      "image": "bestiary_cards_draconids"
+       },
+    {
+      "title": "Elementa",
+      "subtitle": "Creations of magic",
+      "image": "bestiary_cards_elementa"
+      },
+    {
+      "title": "Hybrids",
+      "subtitle": "They toy with their prey",
+      "image": "bestiary_cards_hybrids"
+      },
+    {
+      "title": "Insectoids",
+      "subtitle": "Venomous and dangerous",
+      "image": "bestiary_cards_insectoids" }
+    {
+      "title": "Necrophages",
+      "subtitle": "The dead walk",
+      "image": "bestiary_cards_necrophages" 
+    {
+      "title": "Ogroids",
+      "subtitle": "Flee for your life",
+      "image": "bestiary_cards_ogroids"  }
+    {
+      "title": "Relicts",
+      "subtitle": "Never hunt in the woods",
+      "image": "bestiary_cards_relicts" }
+    {
+      "title": "Specters",
+      "subtitle": "Hunters of the Night",
+      "image": "bestiary_cards_specters" }
+    {
+      "title": "Vampires",
+      "subtitle": "The vampire alights",
+      "image": "bestiary_cards_vampires" }
+  ]
+}
