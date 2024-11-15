@@ -1,0 +1,165 @@
+{
+    "title": "Ogroids",
+    "subtitle": "Flee for your life",
+    "image": "bestiary_cards_ogroids",
+    "entries": [
+        {
+            "title": "Cloud Giant",
+            "expansion": "BaW",
+            "intro": "Many things fall from the sky other than rain and snow. Frogs, for example... And the Cloud Giant.",
+            "author": "Sibald \"Fang\" Faalde, shepherd from Fox Hollow.",
+            "detail": "The Cloud Giant is most likely a degenerated illusory being. He is an inhabitant of the castle in the sky in the Land of a Thousand Fables. This land was abandoned and left untended for years, during which time it began to rot, fester and degrade.\n\nThe Cloud Giant was most likely meant to be a pleasant-natured strongman who would carry the duke's young daughters on his shoulders and never grow tired. When he became degenerated and overgrown, however, he turned into a dangerous monster.\n\nAfter Jack stole his goose that laid golden eggs, the Cloud Giant decided in the future anyone who climbed onto his cloud would be tossed off, without a word of warning.",
+            "image": "bestiary_cloudgiant_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dancing_star"
+                ],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Cyclopses",
+            "intro": "How about this... we take a big stake, sharpen its tip, jam it in the cyclops' eye \u2013 then sneak out of the cave disguised as sheep. How's that not a good idea?",
+            "author": "Odess Thaka, traveler. Died tragically on Spikeroog",
+            "detail": "Cyclopses can easily be recognized by the single eye located in the center of their foreheads. If for some reason that is not visible, other tell-tale signs are their enormous size, incredible strength and a seething hatred for all humans.",
+            "image": "bestiary_cyclops_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "axii",
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Golyat",
+            "expansion": "BaW",
+            "intro": "",
+            "author": "",
+            "detail": "According to legend, Golyat had once been a knight who violated his vows, for which he was punished by the Lady of the Lake. Transformed into a giant, he fled into the mountains and would only descend into the inhabited lowlands when hunger forced him to it. There's no knowing how much truth lies in that legend, yet it is incontrovertible fact that this dangerous giant gobbled up shepherds and sheep alike, and was so widely feared, governesses used him to scare children into eating their vegetables.\n\nThough he came across as a wild, unthinking beast, Golyat used simple tools and any item could turn into a deadly weapon in his powerful hands. When fighting Geralt, Golyat wielded a millstone, making his every blow truly crushing. Luckily, Geralt already had some experience slaying giants and made quick work of Golyat as well, with the much appreciated help of three knights - Milton de Peyrac Peyran, Palmerin de Launfal and Guillaume de Launfal.",
+            "image": "bestiary_golyat_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Hagubman",
+            "intro": "Ye or anyone ever heard of a beast settin' a wagon in the read, then waitin' in ambush? They're too ploughin' dumb for that, dammit!",
+            "author": "Egil, warrior from Hindarsfjall",
+            "detail": "Your average nekker is cowardly and weak and only ever attacks in groups, even then only when the group greatly outnumbers its opponents. Yet at times there will appear among them an individual who towers over the rest in terms of strength, stamina and cunning. Such nekkers are usually called warriors, though that name is misleading. Warriors fight with honor, face to face. These overgrown nekkers act more like assassins - they strike by surprise, from hiding, in the back, or when their opponent exposes himself while attacking. Luckily, like other nekkers warriors are vulnerable to all the Signs, and their blows can be easily parried or countered.\n\nSuch a monster lived near the village of Larvik on Hindarsfjall - and not even the strongest of islanders were capable of slaying it. A witcher though... A witcher's another story.",
+            "image": "bestiary_hagubman_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [
+                    "northern_wind"
+                ],
+                "signs": []
+            }
+        },
+        {
+            "title": "Ice Giant",
+            "intro": "Fled one time in my life. From the Ice Giant. And know what? I'm not a bit ashamed.",
+            "author": "Rasmund Kvaalkje, Clan Tordarroch oarsman",
+            "detail": "This powerful, primeval monster is quite possibly the last of its race. The Ice Giant resembles a man in many respects, but is blue as frost and taller than a tree. Though it seems capable of reason, all attempts to communicate with it to date have ended the same way \u2013 in a quick and painful death.",
+            "image": "bestiary_icegiant_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Ice troll",
+            "intro": "Our winter's cold and deep, frostbite eats your feet, snow falls down and hides the ground and ice trolls wake from sleep!",
+            "author": "folk song heard in northern Kaedwen",
+            "detail": "Climbing to the top of snow-covered peaks is never a safe endeavor. One can slip and fall into a ravine, be buried in an avalanche \u2013 or stumble across ice trolls. Unlike the rock trolls found at lower altitudes, these permafrost-dwelling monsters treat every man they encounter as a possible ingredient for a tasty meal.\n\nLuckily ice trolls live atop high mountain ridges so inaccessible they rarely encounter humans, and some suppose this is why they have not mastered the basics of Common Speech. Others claim their harsh mountain home has stripped them of an ability they once possessed, for in a land of never-ending cold there is no room for mercy or understanding.\n\nIce trolls are crueler than their rocky kin. Though they use similar tactics in battle \u2013 tossing stones and swinging with their mighty fists \u2013 they are heartier and stronger than rock trolls and thus more dangerous. Like rock trolls, their backs are covered in thick protective armor, meaning one should never strike them from the rear. Meanwhile their mass means that the Aard Sign cannot move them. Lastly, never think of attacking them during a blizzard. At such times they draw power from the surrounding cold and fight with increased strength.",
+            "image": "bestiary_icetroll_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Nekkers",
+            "intro": "Take heed, gents, there's nekkers under this here bridge. If you all cross at once, without slowing or stopping, there's nothing to fear. But if your cart throws an axle and you get stuck out there... Well, close your eyes and pray to Melitele.",
+            "author": "Kurt Hammerbach, city guardsman in Vengerberg",
+            "detail": "A lone nekker is harmless. Five are dangerous. Ten can kill even a veteran monster slayer. Particularly troublesome are the larger, stronger individuals known as warriors, as well as the rare breed of nekkers known as phoocas.\n\nNekkers and phoocas live in the dark woods that grow in damp, mist-filled valleys, in colonies of one to several dozen individuals. They dig deep burrows for lairs and connect them with a network of narrow tunnels. Using these passageways they are able to move at great speed within and around their colonies.\n\nNekkers always attack in groups and by surprise. They try to surround their prey as quickly as possible, cutting off all escape routes. Luckily their attack is for the most part disorganized, for nekkers are not gifted with great courage and individual nekkers will often hesitate before overcoming their fear and striking. When fighting them one can use this moment of hesitation to kill the braver individuals before finishing off those who remain in the back.",
+            "image": "bestiary_nekker_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [
+                    "northern_wind"
+                ],
+                "signs": []
+            }
+        },
+        {
+            "title": "Rock Troll",
+            "intro": "",
+            "author": "",
+            "detail": "Rock trolls are an ogroid race that can communicate with humans and non-humans on a basic level. While they don't appear to be as advanced as other races, their ability to use Common Speech has meant various groups have them do jobs on occasion, usually in the form of guarding over something due to their brute strength.\n\nJust like other races though, some are outright hostile and can't be reasoned with.",
+            "image": "bestiary_rocktroll_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Wham-a-Wham",
+            "intro": "Thems in-walk troll house. Troll say, \"Out mans!\" But they wham-a-wham troll rocks. So troll wham, too!",
+            "author": "Rock troll known as Wham-a-Wham",
+            "detail": "Rock trolls come across as dim-witted, ponderous, slow - stupid, to be frank. It's easy to dismiss them - and even easier to enrage them. When this happens, one's best bet is to run as fast as possible, for an angered rock troll is as deadly as a thundering landslide. The truth held in the case of the massive rock troll known as Wham-a-Wham. His every blow struck like a battering ram - meaning one needed either avoid them entirely or protect oneself with the Quen Sign. Its hard skin meant it was near invulnerable to sword strikes - especially those dealt from behind, where its rock armor is the thickest. The only hope for defeating it lay in taking advantage of its typical troll slowness - especially if further exploited using the Yrden Sign.\n\nA certain set of Skellige miners learned first-hand just how dangerous rock trolls can be. Ignoring all warnings, they started to mine a rich silver vein in the cave which Wham-a-Wham called home. They died soon thereafter - crushed or torn to rough bits. This time, a troll's killings were a justified act of self-defense - after all, the witcher reasoned, every troll's cave is his castle.",
+            "image": "bestiary_whamawham_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "ogroid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        }
+    ]
+}
