@@ -1,0 +1,242 @@
+{
+    "title": "Necrophages",
+    "subtitle": "The dead walk",
+    "image": "bestiary_cards_necrophages",
+    "entries": [
+        {
+            "title": "Abaya",
+            "intro": "Seen a lot o' ugly critters in me life - morays, lampreys, blobfish... But never nothin' like this!",
+            "author": "Bjorg, Kaer Trolde shipbuilder",
+            "detail": "The bay below Kaer Trolde had a pernicious reputation. At times fishermen who chose to cast their nets in its waters would never come home again. Something would drag oarsmen off their longships or knock the ships themselves over. The locals blamed this on sea devils - the Skelligers' name for drowners. The truth, however, proved far worse.\n\nA water hag had made her lair in the caves beneath the cliffs of Kjerag. An old and experienced water hag. With powerful claws able to demolish any attempt to block or parry. And the ability to blind opponents from a distance, then strike with a lightning-quick counterattack. Signs would be needed to best her - Yrden, to slow her, and Quen, to protect from her blows. Needed most of all, however, would be a great deal of luck.\n\nThe witcher, though, never was one to count on luck alone. Instead, he pulled a few tricks from up his sleeve to even the odds. By masking his scent, he managed to catch the monster by surprise... and slay it.",
+            "image": "bestiary_abaya_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "northern_wind"
+                ],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni",
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Alghoul",
+            "intro": "An alghoul's basically a badarse ghoul",
+            "author": "Yarpen Zigrin, dwarven warrior",
+            "detail": "Alghouls differ from normal ghouls in size, strength, coloring and, most importantly, intelligence. Whereas ghouls and graveirs are primitive creatures unfit to plan even the simplest ambush, alghouls and their kindred (such as cemetaurs) are capable of forethought, and are thus much more dangerous.\n\nGhouls seem to possess wits enough to at least know a brighter mind when they see it, and so let alghouls and cemetaurs lead their packs. A pack so led will terrorize all in its path, attacking not only lone travelers but also caravans and even farmsteads. When encountering such a pack the alghoul should be eliminated as a first priority, leaving the other beasts for once their leader is gone. One be particularly careful when fighting alghouls around dusk and at night, when they fight with doubled strength.\n\nDuring combat alghouls and cemetaurs try risky maneuvers aimed at knocking their opponents to the ground so the others can finish the job by tearing them to shreds. Like a normal ghoul, an injured alghoul can fall into a frenzy and attack with blind fury. An experienced witcher knows to get out of its way on such occasions and strike from behind, while for an inexperienced witcher, such a turn of events often marks the end of his Path.",
+            "image": "bestiary_alghoul_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "axii"
+                ]
+            }
+        },
+        {
+            "title": "Drowner",
+            "intro": "When at the water's edge, you gotta be quiet. First of all, so as not to scare the fish. Second \u2013 so you don't attract drowners.",
+            "author": "Yanneck of Blaviken, fisherman",
+            "detail": "A drowner resembles a corpse dredged from the bottom of a pond. It is sickly blue or green in color, with slime and sludge oozing out of every pore and the acrid stench of rot wafting off of it. That is why it is often thought drowners - along with their more dangerous cousins: vodniks, mucknixers and drowned dead \u2013 arise from the bodies of those who drown in shallow water: lost travelers falling into bogs, children who swim too far from the shore or, in the case of vodniks, inebriated peasants who stumble off narrow swamp trails.\n\nLike so many other beliefs about monsters, this one is false. While drowners do look like humans from a distance, witchers, who have the dubious pleasure of examining them from close quarters, have reported the numerous ways in which their anatomy differs from our own. Their scaly skin, gills and dorsal fins suggest drowners and their like are an entirely foreign species.\n\nThe adaptations mentioned below make drowners excellent swimmers, well-suited to the muddy waters of the ponds and lakes in which they dwell. They often cluster near human settlements, which are for them an excellent source of food.\n\nCowardly creatures by nature, they usually stick to eating scraps they dig out of rubbish piles and animal carcasses. Yet if a lone traveler or careless fisherman strays into their territory, they turn from scavengers to fearsome predators. They can attack with lightning speed, taking their victim by surprise and pulling him into the water to drown. If not particularly hungry at the moment, they will keep their prey under the water for a few days, aging it until it grows deliciously tender and rotten. Drowners are particularly active at dusk and during the night, especially if the rain is falling \u2013 at such times they will even leave their watery homes and venture inland.\n\nDrowners, mucknixers, vodniks and drowned dead all live in putrid, rotting filth, and so have developed a high resistance to poison. Though humanoid in form, they are primitive creatures no more intelligent than carp or pike. That is why spells affecting the mind, the Axii Sign included, are ineffective against them. Yet they are particularly vulnerable to magic drawn from the element of fire, including the Igni Sign.",
+            "image": "bestiary_drowner_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Foglet",
+            "intro": "If night ever catches you in the swamps, stay put and wait for dawn, even if it means standing waist-deep in water with leeches crawling down your trousers. Most important of all, if you see a light in the fog, never, and I mean never, go towards it.",
+            "author": "Johannes Strudd, guide",
+            "detail": "Fog is the traveler's foe. In the forest, it can make one lose one's way, at sea, it can send one sailing into the rocks. Yet such dangers are nothing compared to the monsters known as foglets which sometimes lurk within it. These creatures have powerful arms and claws like Zerrikanian kinjals, yet what makes them truly dangerous is their mastery of deception, beguilement and disorientation. Many times they need not attack at all, instead simply driving their prey to madness or into boggy marshlands, after which they wait patiently for it to drown in the muddy waters.",
+            "image": "bestiary_foglet_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Ghoul",
+            "intro": "Ghouls creep and crawl at night\n\nEating everything in sight\n\nIn a snap they'd eat you, too\n\nChop you up for a ghoulish stew!",
+            "author": "Children's rhyme",
+            "detail": "Ghouls and graveirs are hard to describe. In part, they resemble humans - yet on the whole, they are the utter negation of all that is human. Though they have arms and legs like men, they walk on all fours like dogs or badgers. Though they have eerily familiar faces, one searches them in vain for any sign of sentiment, reason or even a spark of consciousness. They are driven by one thing and one thing only: an insatiable craving for human flesh.\n\nGhouls and their more dangerous cousins, graveirs, usually feed in small groups, at times led by an alghoul. Since they delight most in the taste of fresh carcasses, they appear wherever newly-dug graves are to be found: cemeteries, crypts, catacombs and battlefields. Whenever the opportunity arises they hunt the living as well, especially when they have strength in numbers.\n\nIn a one-on-one fight with a trained witcher, a ghoul poses little threat, but one must remember that wounded individuals can erupt in a mad frenzy. At such times they attack fiercely, paying no heed to their own safety and brushing off all wounds. One must likewise bear in mind that ghouls and graveirs are particular dangerous around dusk and at night.",
+            "image": "bestiary_ghoul_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Grave Hag",
+            "intro": "Cremation, now that's one thing men could learn from gnomes. Burying bodies out in the fields, why, it's like laying out a welcome mat for monsters! Best case scenario, some ghouls will sniff them out, eat their fill and be on their ghoulish way. But if, gods forbid, a grave hag takes to feeding at your cemetery, you'll have no end of trouble.",
+            "author": "Jacques de Villepin, Oxenfurt Academy",
+            "detail": "Few monsters' names fit as well as the grave hags'. As one might guess, these creatures resemble aged, deformed women and loiter near graveyards and battlefields. Grave hags feed on human corpses and in particular on the rotten marrow which they slurp from human bones using their long, prehensile tongues. Once a hag has devoured all corpses within reach, she turns to killing men and burying them in the cemetery as she waits for them to decompose.",
+            "image": "bestiary_gravehag_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [
+                    "black_blood"
+                ],
+                "signs": [
+                    "quen",
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Ignis Fatuus",
+            "intro": "Careful, sir, a monster prowls the bog. Enter the mist and ye'll never see home again!",
+            "author": "Leslav, peat digger",
+            "detail": "The monster haunting the peat bogs of Velen turned out to be an ancient foglet. These are exceptionally long-lived creatures - some have even dwelt on this earth for over two hundred years, growing stronger and stronger all the while. Blows dealt by foglets of such an age carry so much power blocking them is out of the question. These foglets possess the ability to move extremely quickly, and not even Yrden can slow them down. Furthermore, they can meld completely into the mist, then suddenly rematerialize to strike from behind. Wearing heavy armor or making good use of the Quen Sign is highly recommended.\n\nThis ancient foglet proved particularly adept in the art of forming illusions. Only a professional monster slayer skilled with Signs and swords could best such a foe. Luckily, Geralt fit that description.",
+            "image": "bestiary_ignisfatuus_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Mourntart",
+            "intro": "Somebody's doing some cooking... This... it's a human femur... a child's.",
+            "author": "Geralt of Rivia",
+            "detail": "Most grave hags rarely attack humans, preferring instead to feed on the rotten remains they dig out of graves. Yet some individuals grow bold over the years and begin sneaking into huts to steal children and kill the elderly. Just such a monster was tormenting the inhabitants of Lindenvale.\n\nThe witcher knew this grave hag would put up a fierce fight. He would have to watch out for her powerful claws, capable of smashing through any block or parry, and her long, venomous tongue. He also realized her attacks would be so quick not even his mutated reflexes would be able to keep pace - meaning only judicious use of the Yrden Sign would all[sic] him to survive and conquer.\n\nThe outcome of the fight was not hard to predict. The grave hag perished in the very graveyard which had heretofore served as her feeding grounds, and her body was dumped in a grave she had dug with her own claws.",
+            "image": "bestiary_mourntart_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [
+                    "black_blood"
+                ],
+                "signs": [
+                    "quen",
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Rotfiend",
+            "intro": "Course it reeks. Think they're called rotfiends because they smell like roses?",
+            "author": "Vesemir, witcher of the Wolf School",
+            "detail": "Rotfiends resemble decomposing human bodies that have been stripped of their skin. Their presence is given away by the overwhelming stench of the rot which gives them their name. Devourers are a particularly dangerous kind of rotfiend marked by an insatiable appetite for human flesh.\n\nRotfiends and devourers were once rarities, but in the present age of constant warfare and violence they have become a veritable plague, particularly around battlefields and in disease-stricken areas. Though they feed mainly on carrion, they will at times attack the living. They usually feed in large groups and thus present a danger to lone travelers \u2013 especially considering their speed, which is more than a match for a horse at full gallop.\n\nThe rotfiend's decomposing body is filled with gasses which are poisonous even to those who, like witchers, are immune to most other toxins. These emissions are also highly flammable, meaning any spark, not to mention a carelessly-cast Igni sign, can lead to an explosion. This is particularly likely after a rotfiend dies, when its body thrashes around in uncontrollable tremors.\n\nRotfiends and devourers feed in the twilight hours and at night, when they become much more dangerous than during the day.",
+            "image": "bestiary_rotfiend_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Scurver",
+            "expansion": "BaW",
+            "intro": "Thought it was just a pile of rotten meat - till it started to move!",
+            "author": "Thibaut from Beauclair",
+            "detail": "Scurvers are rotfiends' larger cousins. The bodies of these hideous, vaguely humanoid creatures are covered with rotten scraps of flesh, under which lurk even more rotten muscles stretched around a strong, flexible skeleton. Scurvers, which feed on old, rotting corpses, prefer to make their hunting grounds in abandoned torture sites, forgotten graveyards and old battlefields. They are very aggressive and, though they feed on corpses, if they come across a living person they are likely to attack. Thus when wandering near any of the above-mentioned places, one must be especially cautious.\n\nScurvers usually feed underground, but sometimes, when they catch the scent of a human, they crawl to the surface in a matter of seconds and attack their potential prey.\n\nWhile fighting them one cannot afford to forget about their special boney spines, razor-sharp protuberances sticking out from their skeletons. When a scurver is near death, the gasses and enzymes gathered within its body cause it to explode, flinging these spines out at great speed, turning them into one last deadly weapon in their arsenal.\n\nTo protect oneself against damage from these spines, one should make prodigious use of the Quen Sign.",
+            "image": "bestiary_scurver_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Spotted Wight",
+            "expansion": "BaW",
+            "intro": "The best defense against spotted wights? Stay calm and leave them alone.",
+            "author": "fragment of a treatise on spotted wights by Roderick Giligan.",
+            "detail": "Spotted wights were a subspecies of wight which the witchers drove to extinction. They were larger than their unspotted kin and owed their names to their numerous blotches and effusions. Spotted wights would most often dwell in derelict cemeteries and empty wildernesses, yet at times took to living in abandoned human domiciles. There they would indulge in their greatest passion: creating brews from their own emissions.\n\nWhen not disturbed, spotted wights would not act aggressively. If threatened, however, they became very dangerous indeed. In the colder months or when faced with an unseasonable chill, they would slip into a state of lethargy, making them easy targets. Even during their active periods, it is said the witchers found a surefire way of besting them, based around careful casting of the Yrden Sign \u2013 or at least, so claims witcher lore...\n\nWhenever on the one hand witchers swear they have driven a certain species of monster into extinction and one[sic] the other someone claims to have seen a member of that species walking around in apparent health, most likely we are dealing with a curse. This rule of thumb showed its worth with the spotted wight from the Trastamara estate. It turned out this creature was in fact a woman transformed into a monster by a curse many years prior, as punishment for refusing food and shelter to a wandering beggar.",
+            "image": "bestiary_spottedwight_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni",
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Water Hag",
+            "intro": "Folk say water hags are drowner's wives. If that be true, 'tain't no wonder why they're such ornery bitches.",
+            "author": "Shemhel of Dregsdon",
+            "detail": "Some tales mention water hags and swamp bints masquerading as lost old women to lure travelers back to the rickety shacks they build in the wetlands. In truth, only a blind man, or a sighted man blinded with drink, could mistake the rank sludge and rotting carrion of a water hag's den for a cozy cottage, and the hideous hag herself for an innocent grandmother. Their wrinkled, wart-covered bodies stand nearly two yards tall, with skin the color of a long-dead cadaver and stinking of muck and fish. Bony growths two spans long stick out from their backs, with hair like a tangle of seaweed and claws that would make a werewolf proud completing the picture.",
+            "image": "bestiary_waterhag_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [
+                    "northern_wind"
+                ],
+                "signs": [
+                    "igni",
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Wight",
+            "expansion": "BaW",
+            "intro": "They say the dead like quiet. I don't know about the dead, but wights certainly do.",
+            "author": "Heinrich Von Grott",
+            "detail": "Though wights are ghastly and threatening in appearance, one should not approach them with sword drawn or attack them unprovoked. Left alone, they present no serious danger to anyone and are far more interested in mixing noxious brews in cauldrons than in fighting. This species mainly lives around ancient burial sites, though they have also been spotted near more recently-founded cemeteries and wherever mass graves can be found.\n\nWights spend the winter months in a state of lethargy very similar to human sleep. They live strictly solitary lives -- in fact, it is practically unheard of for these creatures to appear in groups. Yet when they fear their territory is threatened (and it is enough for one to step foot in a wight's territory for it to feel threatened), wights transform into dangerous foes and even abandon their solitary ways to summon other monsters to their aid.\n\nIt is a certainty that if a wight finds itself in danger, it will immediately spew out an ectoplasmic solution which near instantaneously transforms into barghests. These beasts obey the wight and attack anyone it deems a foe. If one of them is killed, the wight tries to replace it at once.\n\nThe best strategy when fighting such a wight is to take out the monsters guarding it with the Axii sign before attacking the wight itself. Wights are resistant to poison, but vulnerable to silver.",
+            "image": "bestiary_wight_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "necrophage"
+                ],
+                "potions": [],
+                "signs": [
+                    "axii"
+                ]
+            }
+        }
+    ]
+}

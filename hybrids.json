@@ -1,0 +1,157 @@
+{
+    "title": "Hybrids",
+    "subtitle": "They toy with their prey",
+    "image": "bestiary_cards_hybrids",
+    "entries": [
+        {
+            "title": "Erynia",
+            "intro": "A merchant once told me I reminded him of an erynia. Naturally, I immediately teleported him to one of their nests, so he could see for himself how ill-fitting a comparison it was.",
+            "author": "Lytta Neyd, the sorceress also known as Coral",
+            "detail": "Hard as it is to imagine, the erynias found in Skellige are even more repulsive - and dangerous - than harpies, their close relatives. Though well-rotten carrion is their food of choice, they will not turn up their noses at fresh meat, man flesh included.\n\nWhen they spy a potential victim, erynias, like harpies or shishigas, will try to make full use of the strength of their numbers and their ability to control the skies. They will circle above their prey then attack from several directions at once, striking with razor-shark [sic] talons and tearing their targets to shreds.\n\nWhile attacking they aim for the neck, eyes and other vital organs, often causing their prey to bleed to death as a result. In this way a small flock of erynias is able to make quick work of larger and better-armed victims, who often are not able to defend themselves effectively from several opponents attacking at once.",
+            "image": "bestiary_erynia_558x580",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Griffin",
+            "intro": "Aye, half-eagle, half tomcat, just like on the lord's crest. 'Cept this 'un was carryin' me dead cow 'stead of a scepter.",
+            "author": "Griffin attack witness, name unknown",
+            "detail": "Griffins were once only found high in the mountains, where they would hunt marmots and wild goats. When humans encroached on their lands, however, griffins soon discovered a new source of much more plentiful and easier-caught prey: cows, sheep and shepherds. Though still wary of main roads and towns (where folk with the means to hire a witcher are like to dwell), these half-eagle, half-wildcat creatures have gone from rarities to oft-encountered pests known throughout the Northern Realms. Especially hated are the subspecies known as royal griffins and archgriffins.\n\nGriffins mate for life and when their partner is attacked they will defend it to the death. For this reason they are often considered the embodiment of courage, loyalty and fighting spirit. This last attribute no one would deny them \u2013 when provoked, they will not cease their attack until they have torn their opponent to shreds.\n\nGriffins find their victims using their extraordinary perceptive sense of smell. After drawing near to their chosen target they attack by swooping down from great height. Their muscular mass combined with their swift speed mean[sic] this blow alone is often enough to end the fight. If, however, the victim survives this aerial assault, the griffin will immediately engage it in direct combat, making use of its sharp, curved beak and powerful talons.\n\nThe wounds it deals are deep and cause powerful bleeding. Even worse, griffins do not have any true weaknesses \u2013 except for their vulnerabilities to hybrid oil and certain kinds of bombs.",
+            "image": "bestiary_griffin_577x515",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Harpy",
+            "intro": "Most monsters don't actually keep any treasure in their lairs. Harpies, though - they like shiny things.",
+            "author": "Letho, Viper School witcher",
+            "detail": "It is hard to say what is most repulsive about harpies and their cousins, the shishigas: their hideous appearance, the overwhelming stench of rot and bird excrement that clings to them or their bloodcurdling screech. Suffice it to say that even rats, who dwell happily among the rankest fecal matter and rotten waste, give their nests wide berth.\n\nHarpy nests are most often found atop high cliffs or rocky ravines. Sure signs of having strayed near one are crumbling human and animals remains, guano-streaked rocks and feathers littering the ground.\n\nHarpies and shishigas hunt in flocks consisting of a handful to up to twenty individuals. Though rather cowardly and cautious, harpies fiercely defend their nests and will not hesitate to attack when outnumbering their foes.\n\nDuring combat they use their ability to fly to dive[sic] swiftly to strike their victims one by one before soaring back up out of reach. They can kill with their wings or their sharp beak and talons. Once on the ground they move slowly and clumsily, and thus no longer present much of a threat.",
+            "image": "bestiary_harpy_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Melusine",
+            "intro": "I... I saw a shadow... Great wings, like a cloud passin' o'er the sky. Then I heard him scream.",
+            "author": "Britt of Svorlag",
+            "detail": "In the mountains near the village of Svorlag in Skellige lies an enormous complex of caves. For many centuries they were given wide berth on account of the bloodthirsty ekhidna known as Melusine who had made them into her lair.\n\nMelusine was a beast so powerful some islanders worshiped her as a semi-divine being. The witcher, however, harbored no such delusions. He knew she was an extremely powerful monster - but a monster all the same. This meant she could be killed. To do so, he would need the highest quality bolts, a solid silver blade - and a steady hand.",
+            "image": "bestiary_melusine_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard",
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Opinicus",
+            "intro": "Thin rachides, sparse after feathers... An archgriffin.",
+            "author": "Geralt of Rivia",
+            "detail": "Killers of various stripes - mercenaries, knights errant, ambitious lawmen - try at times to compete with witchers as monster slayers. This usually ends in a massacre that not only does not solve the problem, but in fact only makes it worse - the beast walks away from the fight unharmed, enraged and out for vengeance. Such was the case in the mountains outside Oxenfurt, where a powerful archgriffin had made its nest.\n\nOnce again it fell to the witcher to clean up after amateurs. He knew neither Igni nor bombs dealing fire damage would have any effect against this fire-loving creature. He would also have to look out for its acid, which can eat through even the thickest armor - leaving one vulnerable to its razor-sharp talons.\n\nAfter a long fight, the witcher slew the archgriffin. Some scholars in nearby Oxenfurt might accuse him of having contributed to the disappearance of an endangered species and disrupting the local ecosystem. Somehow, the witcher didn't seem likely to lose much sleep over the matter.",
+            "image": "bestiary_opinicus_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Salma",
+            "intro": "I'm not one to lie. Nor do I kill without reason.",
+            "author": "Salma, succubus",
+            "detail": "The witcher's investigation uncovered that a succubus named Salma was responsible for the string of killings afflicting the Novigrad city guard. This came as a surprise, for succubi do not usually commit premeditated, cold-blooded murder. This is not to say they are not dangerous: they will at times kill on accident, when carried away on a particularly gushing stream of ecstasy. At other times, they kill in self-defense: though they have the look of slender maids from the waist up, their supple limbs hide incredible strength. They are also invulnerable to fire, the Igni Sign included. They present witchers with an intractable dilemma: does this monster, who wishes me no ill yet all the same often causes harm, deserve death, or mercy?",
+            "image": "bestiary_salma_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Siren",
+            "intro": "Out at sea, if you hear a beautiful woman singing, turn the ship around at once. You understand? Even if it means sailing straight back into a storm.",
+            "author": "Arike of Hindarsfjall, advice given to his son before his first solo voyage",
+            "detail": "Like skilled hunters setting out wooden ducks to lure in drakes, sirens and lamias lure men near - using their own bodies as decoys. They can transform to resemble beautiful human maidens, though with tails covered in silver scales instead of legs. Once a naive sailor gets within arm's reach of these beautiful creatures, their fair faces suddenly turn to fang-filled, fish-like maws, and lovely tails promising unknown delights become sharp, death dealing talons.\n\nOne legend claims sirens and lamias were once friendly towards men \u2013 and supposedly were even known (albeit on rare occasions) to accept some sailors' clumsy attempts at courtship. In our day, however, they are decidedly aggressive, perhaps soured by the numerous kidnappings of carried out by frustrated sea salts. Whatever the truth, one thing is certain: these days the monsters display no signs of good will, and so when spotting them one should immediately reach for one's silver sword.\n\nSirens and lamias (the sirens' more dangerous cousins) usually hunt in flocks, making use of their numbers as well as their ability to move effortlessly through water and air.\n\nOn the ground, however, they are virtually defenseless, and so a wise tactic is to damage their fin-like wings to force them to land. The Igni Sign also proves effective when fighting against them. Threatened or injured sirens will let out a terrifying shriek, leaving their opponents stunned while they escape \u2013 and their sisters swoop down for an easy attack.",
+            "image": "bestiary_siren_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard",
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Succubus",
+            "intro": "Again?! Good grief, woman, I'm spent...",
+            "author": "Lester of Smallton to a succubus, a few days before taking a vow of celibacy",
+            "detail": "Unlike other monsters, succubi and menads feel no desire to kill, do not crave human blood and usually do not, in fact, mean any harm at all. They are motivated by one thing and one thing only: an insatiable lust. They try in vain to slake this by engaging in sexual acts with any other humanoid species they encounter. While it must be admitted that their \"victims\" rarely put up much resistance, this does not mean succubi and menads do not present any danger: their never-ending advances, though pleasurable at first, have pushed more than one man to madness or even death.\n\nSuccubi and menads usually can be found near human settlement, including small villages and populous cities. They prowl at night, though when stricken by serious need they will leave their lairs during the day as well. They shower their affections on men as well as women, the young as well as the old, the ugly as well as the beautiful. Some of them are particularly fond of pastors and other holy men, whose seduction they treat as a sort of game.\n\nThough succubi are peaceful by nature, when forced to fight they will defend themselves fiercely. One should thus not be fooled by their fair appearance \u2013 under the velvety skin of their arms lie muscles of iron, and a blow delivered with their rear, goat-like legs or the thick horns on their head can easily crush bone.",
+            "image": "bestiary_succubus_368x505",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "hybrid"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        }
+    ]
+}

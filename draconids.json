@@ -1,0 +1,213 @@
+{
+    "title": "Draconids",
+    "subtitle": "The flying predators",
+    "image": "bestiary_cards_draconids",
+    "entries": [
+        {
+            "title": "Basilisks",
+            "intro": "In memory of the noble knight Roderick, slain during a valiant struggle against a basilisk. Let's hope the beast choked on his bones.",
+            "author": "Gravestone inscription, Vizima cemetery.",
+            "detail": "Contrary to popular belief, basilisks cannot turn anything to stone with their gaze. That is small comfort, however, given that their acid, venom, claws and teeth provide them many other ways to kill.\n\nBasilisks love dark, damp places such as cellars, caves and city sewers. They hunt by day, waiting patiently in hiding for their prey to come, then jump out in a flash to unleash a deadly attack.\n\nWhen preparing to fight such a creature one should drink Golden Oriole, which will provide resistance to its venom, and also prepare Dancing Star or shrapnel bombs, which work particularly well against basilisks.\n\nBasilisk leather is a highly-valued material used to make fashionable shoes and women's handbags. For this reason many men, their courage girded by goldlust, take to hunting them. Most of these hunts end in disaster, but some do manage to bag their prey, which has led to a drastic decline in this creature's numbers in recent years. Some mages and druids are of the opinion that basilisks should be included in programs meant to safeguard dying species. Everyone else thinks those mages and druids have gone completely mad.",
+            "image": "bestiary_basilisk_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Cockatrices",
+            "intro": "Had meself eight heifers, five of 'em milchers. Then this cockatrice sprung up nearby, and now all's I got left's dried patties in an empty field.",
+            "author": "Jethro, peasant from Pindal",
+            "detail": "Foolish superstitions claim cockatrices, like basilisks, can kill with their gaze alone. That is utter nonsense, however, a cockatrice's gaze being no more dangerous than that of an angry goose. One should instead watch out for it's sharp beak and long tail, which it can whip to murderous effect.\n\nCockatrices thrive in dark caves, abandoned ruins, cobwebbed dungeons and old basements. Though small compared to griffins and manticores, they are more than capable of killing anyone who stumbles across them in a dark corridor.\n\nCockatrices do not shun direct fights, in which they strike furiously with wing and tail in an attempt to exhaust their foes. Blows from their beaks are especially dangerous, as they aim with deadly precision at exposed flesh and vital organs and leave bleeding, life-threatening wounds. When fighting them one should make liberal use of draconid oil as well as Grapeshot, whose shrapnel will pierce their delicate wings with ease.",
+            "image": "bestiary_cockatrice_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Forktails",
+            "intro": "Forktails... Bah! Fuckers' tails're more like cleavers.",
+            "author": "Yavinn Buck, veteran of the Mahakaman Volunteer Regiment",
+            "detail": "Forktails owe their quaint name to the long sharp growths at the tip of their tails. A blow from this weapon can slice an oaken shield in two \u2013 along with the arm that was carrying it. Thus, though its name conjures images of cutlery, fighting a forktail is nothing like a dinner party and ends in death rather than dessert.",
+            "image": "bestiary_forktail_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Royal Wyverns",
+            "intro": "It were huge. And those teeth, ugh! We barely escaped.\n\nWonder if it killed the traders... Whoresons sure had it comin',",
+            "author": "Conversation overheard in Velen",
+            "detail": "A hunter who knows his prey's habits and behavior will rarely return from his hunt empty-handed. To know what forest paths deer are like to trod, to know in what muck boars will wallow, to guess when a hare will emerge from its burrow - that is half the battle.\n\nWhat most men do not know is that some monsters also possess such knowledge. For example, a royal wyvern from Velen had learned the danger of exposing itself to human eyes and arrows by flying high to pick out its prey from afar. Instead, it would lurk by the roadside and wait for military transports. In this way it grew fat on salted pork and beer, expanding until it resembled a dragon more than other, lesser members of its own kind.\n\nThe witcher thus knew this beast would be much stronger and more resilient than a normal wyvern. Even one blow from it could kill - which is why he would need to avoid its charge at all costs. He would also be wise to force it to the ground with his crossbow or a bomb whenever it tried to fly into the air and hurtle down in a deadly dive.\n\nIn the end the witcher slew the hideous creature, though not without some difficulty. Thanks to this feat, the soldiers could once again send shipments of food and equipment needed to conduct the war. Whether that was a good or a bad thing - that is an entirely different matter.",
+            "image": "bestiary_royalwyvern_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Shrieker",
+            "intro": "Heard you have a problem - a monster you call a shrieker?\n\nAye, prowls about, it does. Snatches cows and goats, mostly, but it won't scorn a man if it runs into one.",
+            "author": "Conversation overheard at Crow's Perch",
+            "detail": "The monster tormenting the residents of Crow's Perch turned out to be a particularly nasty cockatrice. Geralt was not surprised the baron's men had been unable to stop it. They could not possibly withstand the surgical precision of its strikes, which slice open arteries and provoke an outpouring of blood only the Swallow potion could hope to stop. Neither did they know to force it to the ground with a crossbow, a bomb or a Sign, and then evade its charge by rolling under the monster's outstretched wing.\n\nJust when it seemed the villagers would have to learn to live in the shadow of a bloodthirsty beast, to always look to the sky with fear, the witcher arrived - and put an end to the shrieker for good.",
+            "image": "bestiary_shrieker_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Silver Basilisk",
+            "expansion": "BaW",
+            "intro": "You want a fine pair of boots, you say? Bring me the hide of a silver basilisk, and I'll make you boots the whole world will envy.",
+            "author": "Anatole Vizholy, shoemaker from Beauclair",
+            "detail": "Geralt always liked looking at things that don't exist. Be it a vampire with a human heart of the last basilisk of a species that no scholar has classified, discovering something thought not to be there to be discovered caused him great pleasure. That is why he took an interest in a contract which, at first glance, seemed banal, but proved to be very intriguing. It concerned the last basilisk of the nearly-extinct species Regulus Platinum.",
+            "image": "bestiary_silverbasilisk_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard",
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Slyzard",
+            "expansion": "BaW",
+            "intro": "Some peasants once offered me a king's ransom to slay a slyzard. A damned hefty purse, chock full o' gold... But I turned 'em down. Coin's no good if you're dead. And a slyzard, that's no fuckin' forktail.",
+            "author": "Zator, one of the Crinfrid Reavers",
+            "detail": "Slyzards are often mistaken for wyverns or forktails. Yet make no mistake: slyzards are nasty, terribly dangerous beasts, and confusing them for wyverns will end very badly for the confuser. While a wyvern can tear apart and devour an untrained man in seconds, only a slyzard can first bake him to a crisp with a waft of fiery breath.\n\nSlyzards are keenly aggressive and attack from both ground and air. Their goal during a fight is to get close enough to their foe to injure it with a breath of fire or knock it down with a sonic blast. Like wyverns, slyzards also attack with venom-spiked tails.\n\nSlyzards like to disengage mid-fight to fly into the air and plummet down at high speed while spewing out balls of fire.\n\nRight before these igneous missiles emerge, you can observe a fiery ball forming in the monster's maw. While airborne, a slyzard can also attack with its claws and teeth.\n\nIt is worthwhile to employ the Aard and Igni Signs to force slyzards to the ground. They are not, however, vulnerable to burning. Before tackling one of them, be sure to coat your blade in draconid oil.",
+            "image": "bestiary_slyzard_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard",
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Slyzard Martiarchs",
+            "expansion": "BaW",
+            "intro": "",
+            "author": "",
+            "detail": "If you ever find yourself facing a monster that breathes fire, strikes with a tail tipped with venomous spines, bites with sharp teeth and swipes with even sharper claws and tends to knock its prey to the ground with a sonic blast, then you are fighting a slyzard. With an asernal like that, it comes as no surprise folk often mistake these draconids for dragons. Yet the experts (meaning witchers) know slyzards constitute an entirely seperate species, much smaller than dragons and far less dangerous. With one exception: slyzard females in mating season, or, even worse, just after laying their eggs. When fighing such individuals, my suggestion is to get as far as possible from the danger as quickly as possible, preferably by running, at full tilt, without looking back.",
+            "image": "bestiary_slyzardmatriarch_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard",
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "The Dragon of Fyresdal",
+            "intro": "It's got scales, wings, claws... A dragon's a dragon! No point gabbin', just go kill it!",
+            "author": "Vagn, village elder of Fyresdal",
+            "detail": "Few truly know what a dragon looks like, for those who have seen one up-close rarely have a chance to share their impressions. That is why people are forever mistaking other monsters for dragons. This was the case in Fyresdal, where the so-called dragon wreaking havoc turned out to be a forktail.\n\nYet this mistaken attribution did not mean there was no reason to worry. The forktail harassing Fyresdal was a particularly vile representative of its kind, one equipped with an endless store of deadly venom. Fighting it without first drinking a regenerative potion or a poison antidote would be tantamount to suicide.\n\nIn his fight with the forktail, Geralt gave proof not only of his masterful swordsmanship, but also of a previously-undemonstrated flair for shepherdry. With a little help from a brave sheep lent by the village elder, he lured the monster into a trap - then ended its life.",
+            "image": "bestiary_thedragonoffyresdal_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Wyverns",
+            "intro": "Most dangerous of all are the royal wyverns. Or, as they're called in some circles, the royal pains in the arse.",
+            "author": "Albina Tottelkampf, lecturer in natural sciences at Aretuza",
+            "detail": "Wyverns are often mistaken for dragons, and, though they are much smaller than their more famous kin and do not breathe fire, they are likewise extremely dangerous monsters. Especially feared are the so-called royal wyverns who, like their namesake monarchs, are exceptionally ornery and extremely deadly.",
+            "image": "bestiary_wyvern_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "grapeshot"
+                ],
+                "oils": [
+                    "draconid"
+                ],
+                "potions": [
+                    "golden_oriole"
+                ],
+                "signs": [
+                    "aard"
+                ]
+            }
+        }
+    ]
+}

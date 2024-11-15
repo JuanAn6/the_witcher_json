@@ -1,0 +1,301 @@
+{
+    "title": "Specters",
+    "subtitle": "Hunters of the Night",
+    "image": "bestiary_cards_specters",
+    "entries": [
+        {
+            "title": "Barghest",
+            "expansion": "BaW",
+            "intro": "Shun sin! Renounce foul deeds! And if evil threatens to overwhelm your will, ponder the fate of the Outskirts of Vizima! Remember the hideous barghests which scourged them and repent!",
+            "author": "\"Sermons for Feasts and Funerals\", by the Reverend Yomen of Tretogor",
+            "detail": "Folk of simple or superstitious minds claim committing particularly rotten acts will bring down the wrath of the gods in the form of \"barghests,\" phantom dogs which stalk the roads at night. Even if this were their origin, barghests saints and sinners alike would need fear barghests, for they attack both with equal ferocity. Witchers rarely believe in the gods, but they do accept that barghests exist and are always connected with some sequence of tragic events that happened in the past. Their explanation, however, holds that barghests result from a curse or a concentration of ill will.\n\nBarghests, like wolves, are stronger in packs. Together they surround their prey, leaping at it and tearing it apart with their teeth. If their prey defends itself too determinedly, they strike it with a blast of phantom fire. Since they are fast and agile, they can easily evade attacks directed at them.\n\nThey cannot be burned, but fire hurts them as if they were of flesh and blood. The Axii Sign also works on them.",
+            "image": "bestiary_barghest_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "axii",
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Beann'shies",
+            "expansion": "BaW",
+            "intro": "Beann'shies howl and shriek, and if you hear their cry, you can know you'll join the ranks of the dead that night.",
+            "author": "beggar from Dun D\u00e2re",
+            "detail": "Old gossips claim beann'shies are the spirits of women stuck between life and death due to traumatic experiences. Their wails and howls are considered ill omens of imminent, inevitable death, though they are said not to attack the living themselves. Most often they appear in the form of pale, tear-streaked women with shriveled faces and wrinkled, corpse-like bodies.",
+            "image": "bestiary_beannshie_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Daphne's Wraith",
+            "expansion": "BaW",
+            "intro": "",
+            "author": "",
+            "detail": "During his stay in Toussaint, Geralt became involved with a curiuos case of gynodendromorphy - that is to say, a woman who had been turned into a tree. When one cut into this tree's bark, it bled, and when the wind blew through its leaves, one could hear muffled sobs. Geralt investigated the matter and learned magic (or possibly a curse) was responsible for the transformation, and it surely had something to do with a certain sad episode form the woman's past. The love of Daphne's life, a knight errant, had gone to the witch of Lynx Crag and never returned, leaving her to wait for him forever, filled with sadness and longing.",
+            "image": "bestiary_daphneswraith_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Devil by the Well",
+            "intro": "Wears a dirty dress, all rags, its skin flakin' off of its bones. And it howls... like it's sufferin'.",
+            "author": "Odolan of White Orchard",
+            "detail": "The residents of White Orchard have suffered more than their fair share of misfortunes. Passing armies had trampled their spring planting, a griffin had begun abducting their livestock, and, the rotten icing on this painful cake, a noonwraith haunted a nearby well. No wonder the locals called this final evil a 'devil'. The witcher could sense something bound her to this place, and that in order to send her off into ethereal realms he would first need to learn her secret.\n\nOnce that was done, he would have to prepare for battle - and a noonwraith is a demanding opponent. She can disorient her victim by blinding him and creating mirror images of herself. These copies slowly suck their victim's life energy - while their mistress remains untouchable. In order to defeat her, the witcher could not rely on his silver sword alone - the Yrden sign would also be needed to trap her and force her to take on material form.\n\nWitchers don't normally feel a limited range of emotions regarding the monsters they slay. They despise the particularly cruel ones and are repulsed by the disgusting ones, but rare indeed is the monster for which they feel sympathy. Yet that is exactly what Geralt felt for the noonwraith of White Orchard. For a long time he was haunted by thoughts of the young woman whose horrible death and powerful emotions had transformed her into that terrible monster.",
+            "image": "bestiary_devilbythewell_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Ethereal",
+            "expansion": "HoS",
+            "intro": "The human mind is as wild and unexplored a place as any land far beyond the seas. It is inhabited by manifold dangers \u2013 fears, painful memories, traumas. These lurk on the edge of our consciousness, like predators waiting for a moment of weakness in which to reveal themselves... and destroy us.",
+            "author": "Arturius Vigo, \"The Essence of Spells and Illusions.\"",
+            "detail": "The painted world created in the mind of Iris von Everec was mainly populated by figures from her memories, but was also home to dangerous, predatory creatures: the embodiments of her fears. The most dangerous of these, the Ethereal, invoked her greatest fear \u2013 and wore the face of her husband.\n\nThe Ethereal resembled Olgierd in appearance and also fought using a technique similar to his. A group of six such creatures lay in wait for Geralt, yet at first only one engaged him in battle. This one's death awoke the next, which was more powerful than the first, and so it went to the end, with a stronger ethereal replacing a fallen weaker brother until all were defeated. Yet Geralt had to be careful, for the slightest amount of damage dealt to a being awaiting his turn would cause him to come alive and join his still-living comrade in the fight.\n\nIn the end, the best tactic against these nightmarish beings proved to be a well-timed counterattack.",
+            "image": "bestiary_ethereal_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [
+                    "blizzard"
+                ],
+                "signs": []
+            }
+        },
+        {
+            "title": "Hym",
+            "intro": "Some men have got good reason to fear their own shadows.",
+            "author": "Svargmitt, An Skellig druid",
+            "detail": "Monsters most commonly claim innocents as their victims: tardy merchants, reckless children and travelers who wander into dark woodlands out of misplaced curiosity. None of the above need fear hyms, however. These wraiths only latch onto particularly despicable individuals who have committed some unspeakable crime. To all others, they remain completely invisible. When they do show themselves to the one they torment, they appear as a tall, shadow-clad, humanoid silhouette with long, sharp claws.\n\nYet hyms do not sink these claws into their victims. Instead, they sap their strength directly, through inflicting suffering. Speaking in a voice only the victim hears, they drive him to commit acts of violence, aggression and self-harm. A hym will seize on a guilty person's worst fears and weave out of them hideous visions, slowing[sic] driving the poor soul into madness.\n\nThose tormented by a hym are incapable of restful sleep, for they are tormented by ever-more-frequent, incredibly-realistic nightmares. At times the victim will become extremely on edge, yelling pleas or threats at invisible phantoms or confessing his guilt out loud in the hope this will end his torment. This act does not, however, bring any relief, for the hym will not leave until it has addled its victim's wits completely or driven him to suicide.",
+            "image": "bestiary_hym_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Jenny o' the Woods",
+            "intro": "So... That's to mean... our Zula's the wraith?",
+            "author": "Bolko, ealdorman of Midcopse",
+            "detail": "It is said true love's flame is never extinguished. This sad truth is the reason why Zula of Midcopse, whom an early death had separated from her beloved, was unable to find peace in the next life, and instead returned to haunt her former environs as a nightwraith.\n\nFighting such an apparition is extremely difficult. A nightwraith will form mirror images of herself to confuse her opponent and aid her in battle. She herself can take on immaterial form, rendering her invulnerable to blows. The best way to force her out of this state is to set a trap with the Yrden Sign, then quickly followup with Igni while she is caught. Most important of all, however, is this: never attempt to fight one in the middle of the night, when the moon hangs high in the sky.\n\nThis vengeful wraith might very well have killed every last inhabitant of the village, had not a famous witcher, Geralt of Rivia, appeared in Velen - and been in need of a bit of coin.",
+            "image": "bestiary_jennyothewoods_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Longlocks",
+            "expansion": "BaW",
+            "intro": "Well, since it seems this hair won't be pulling up any knights in shining armor, might as well put it to some use.",
+            "author": "the last words of Longlocks.",
+            "detail": "Everyone knows love stories can have tragic endings, but few would think this also applies to princesses from fairy tales created to relieve a set happy ending over and over again. Longlocks had the misfortune of becoming just such an unlikely tragic heroine. After the duke's daughters grew up and the Land of a Thousand Fables went feral, Longlocks, whose prince never came and who suffered greatly from her loneliness, decided to hang herself by her own braid. After she died, her ghost stayed to haunt the castle in which she had awaited her suitor.",
+            "image": "bestiary_longlocks_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Nightwraith",
+            "intro": "Nightwraiths exude this immense sadness, this helpless wraith... I fear them, same as anyone. But most of all I feel sorry for them.",
+            "author": "Aelline Altsparr, elven trobairitz.",
+            "detail": "Compared to other creatures of the night \u2013 katakans, nekurats and werewolves, for example \u2013 nightwraiths (and their rarer cousins, duskwraiths) might not seem all that dangerous. After all, one might ask, how much harm could a pale, withered woman in a tattered dress do? The answer: quite a bit. Instead of finding this out the hard way, avoid crossing fields and meadows at night at all costs.\n\nLike noonwraiths, nightwraiths are only found in rural areas. Travelers fall victim to them most often, but if legends are to be believed they also sneak into huts at times and murder peasants in their sleep.\n\nWhen they attack nightwraiths remain immaterial for most of the time, meaning physical blows pass right through them. They only take on more tangible form for the brief moments in which they strike. When weakened, they will create several projections of themselves which cannot attack directly but act as transmitters of sorts through which the nightwraith can sap her victim's vital energy.\n\nNightwraiths can turn immaterial and are at such times very difficult to wound. In order to force one to take on corporeal form, trap it with the Yrden Sign or hit it with the blast of a Moon Dust bomb.\n\nDo not believe the old wife tales and think yourself completely safe from nightwraiths during the day. They appear under the light of the sun as well - but are much weaker then than after dusk.",
+            "image": "bestiary_nightwraith_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Noonwraith",
+            "intro": "Despite what is commonly thought, peasants do not interrupt their labors at midday to get out of the sun \u2013 they do it to avoid noonwraiths.",
+            "author": "Vlad Reymond, Peasants and Their Customs",
+            "detail": "On particularly searing summer days, when the sun reaches its zenith, wraiths will at times appear, resembling sun-scorched women dressed in long, white robes. These are noonwraiths \u2013 the spirits of young women and girls who died violent deaths right before their weddings. Driven mad with pain and anger, they wander the fields searching for their unfaithful lovers or backstabbing rivals, though they will kill anyone who does not get out of their way in time. They are often held in this world by some object of intense emotional significance. That is why, if one ever finds a wedding ring or torn veil in the middle of a field, one should not pick it up, but instead back away as quickly as possible.\n\nNoonwraiths are only known to haunt rural places, and usually stay near the place of their deaths. They prey on peasants working in the fields or children playing nearby.\n\nNoonwraiths do not bleed and are for the most part immune to the effects of Witcher Signs. They can create mirror images of themselves which circle their victims in a kind of morbid parody of a dance. This ghastly ritual drains their victims' life energy while adding to their own strength. Noonwraiths are also able to manipulate the physical world to a limited degree, kicking up clouds of dust which temporarily blind and disorient their opponents.\n\nNoonwraiths can turn immaterial and are at such times very difficult to wound. In order to force a noonwraith to take corporeal form, one must first trap it with the Yrden Sign or strike it with a Moon Dust bomb. Once the monster has regained physical presence, one can mount a fast attack with a silver blade, preferably one coated in specter oil.\n\nContrary to popular belief, noonwraiths can also be encountered at night, but are much weaker then than during the day.",
+            "image": "bestiary_noonwraith_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Penitent",
+            "intro": "I run back inside, hasp the doors, and then I hear it \u2013 someone whispering my name. Mikkjaaal, Mikkjaaal!",
+            "author": "Mikkjal, Eldberg lighthouse keeper",
+            "detail": "It turned out the monster haunting the isle of Eldberg and its lighthouse was a rare type of specter known as a penitent. Wherever this wraith haunts immediately becomes enveloped in thick fog and darkness - and those that wander into it usually never return. In order to defeat a penitent, one must remain in constant motion in order to avoid being struck by this agile creature, which can disappear and reappear in the blink of an eye to attack from behind. Most importantly of all, however, one must discover what keeps they monster bound to its haunting grounds - and break that bond as soon as possible.\n\nWith the lighthouse keeper's help, Geralt drove the mist from the isle - then dispatched the penitent from our world for good. Now ships were once again able to sail to Arinbjorn's port, and the witcher's coin pouch grew a little fuller.",
+            "image": "bestiary_penitent_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen",
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Plague Maiden",
+            "intro": "Patients seem to have hallucinations of a woman covered in scabs and boils, with rats scurrying about all around her. These ravings subsided after an administration of henbane and poppy extract.",
+            "author": "Joachim von Gratz's notes, Vilmerius Hospital in Novigrad",
+            "detail": "When plague ravages a region, a spirit will sometimes walk its lands, a ghost resembling an ill woman whose flesh rots off her bones and in whose wake crawls a cavalcade of rats. No one knows whether this spirit brings the pox with her or is merely drawn to it like a moth to a light. Yet it is certain that she delights in dealing pain and suffering, in hearing the howling and moaning of men.\n\nMany have called into question the very existence of plague maidens, or pestae, as they are sometimes called. Only two sightings of such a creature have ever been recorded, both during times of raging epidemic.\n\nAs the name \"plague maiden\" suggests, these wraiths take the appearance of females, though exactly why that is remains a mystery. Some speculate they, like other such specters, arise from the powerful emotional charge associated with certain circumstances of death, such as death preceded by a long and particularly painful illness.\n\nNot much is known about how to fight a plague maiden, though one can assume they possess many traits in common with other phantoms and wraiths. They undoubtedly pose a great danger, though a witcher's immunities should at least prevent him from catching the contagious illnesses they carry.",
+            "image": "bestiary_plaguemaiden_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Umbra",
+            "expansion": "BaW",
+            "intro": "An umbra is merely an unclean conscience, one tormented by guilt and unforgiven wrongs. A man wallows in sin with loose women and can't sleep at night, then invents hokey about some umbra or phantom and blabbers about it at the tavern.",
+            "author": "Sabine of Dal, mystic and priestess of the Prophet Lebioda.",
+            "detail": "According to some philosophers, everything we do in life leaves a permanent trace in the delicate matter which makes up our souls. Evil deeds, especially harm done to innocent creatures, can torment the soul of a sinner and cause it to remain restless, even after death.\n\nWhile traveling through Toussaint, Geralt discovered there might a be grain of truth in these theories and folk beliefs. He came across a hermit whose sleep was troubled by some invisible phantom.\n\nGeralt determined this phantom was an umbra, the ghost of a recently-deceased knight who had committed a terrible deed while alive and now visited the hermit to demand forgiveness. In his wraithly form he drank her blood and systematically deprived her of life energy.\n\nThe umbra appeared to the hermit as a horse, for the evil deed the knight had committed was to flog his own mount to death. The knight's spirit was unaware of the demonic role he had assumed in the afterlife.",
+            "image": "bestiary_umbra_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "The White Lady",
+            "intro": "Micko and his band? Who're they?\n\nFour lads, drunkards and good-for-nothin's, all. They'd drained a few pints and decided they'd all plough the White Lady, maybe then she'd bugger off.",
+            "author": "Conversation overheard in a field outside Novigrad",
+            "detail": "The apparition haunting the fields outside Novigrad turned out to be a noonwraith. Some powerful emotion must have bound it to that place - love, hate, anger or perhaps all three at once. Like every wraith of this type, she was surely capable of forming mirror images of herself, which served to mislead opponents and restore her vitality. Luckily, these mirages could be dispelled with a quick slash from a silver blade. Like any noonwraith, she would undoubtedly seek to assume immaterial form while fighting, making her almost impossible to injure - unless she is first caught in a trap laid by the Yrden Sign, or blasted with a special bomb. Once thus forced into materiality, she should be attacked with strong blows or the Igni Sign. Finally, one must always keep in mind two witcher sayings: \"The longer you fight a noonwraith, the lower your chances of surviving,\" and \"Fight a noonwraith at midday and you'll be dead before dusk.\"/nThe vengeful wraith known as the White Lady had roamed the fields for a long times, murdering anyone she came across. Though the grain hung heavy from the stalks, the frightened peasants were kept from harvesting it and thus faced famine. They gathered their last bit of savings and went in together on a bounty for a witcher. That was coin well-spent.",
+            "image": "bestiary_thewhitelady_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "The Wraith from the Painting",
+            "expansion": "HoS",
+            "intro": "Quite often a wraith is tied to an object, something it clung to during life, or a location, such as its place of death. In either case, we are dealing with the same causal agent: a strong emotional tie from which the wraith draws strength.",
+            "author": "Inigo Swann, \"Beyond the Natural World.\"",
+            "detail": "While wandering the von Everecs' abandoned estate, Geralt came into contact with a woman's wraith haunting the house. The restless spirit had mastery over the house's furnishings and in particular over the paintings hanging from its walls. It moved freely between their canvasses, entering one and exiting through another. At first it tried to scare Geralt into giving up his search, then, when it was clear this strategy would not work, it attacked him directly.\n\nGeralt's battle against the wraith proved very difficult, for it was fueled by rage and launched its attacks with heated aggression. Geralt was forced to move with lightning speed in order to parry its blows, without time to take a breath or launch an attack of his own. What's more, the wraith had created a bond with the paintings around it and, until the witcher severed this tie, it would continually regain any lost strength.\n\nThe key to victory over the Wraith from the Painting was to focus on parrying its blows and only attack sporadically, at exactly the right moments. Any attempt to attack in a flurry was always punished with a deadly counterattack.",
+            "image": "bestiary_thewraithfromthepainting_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [],
+                "potions": [
+                    "specter"
+                ],
+                "signs": [
+                    "yrden"
+                ]
+            }
+        },
+        {
+            "title": "Wraith",
+            "intro": "Finish all your business before you die. Bid your loved ones farewell. Write your will. Apologize to those you've wronged. Otherwise, you'll never truly leave this world.",
+            "author": "Paule Vikar, peasant healer, advice to a dying man",
+            "detail": "Clerics and scholars are forever debating whether spirits do in fact journey to another world after death, one where eternal joy or suffering awaits. Both groups agree, however, on what happens to spirits who, for one reason or another, remain in our world after their body breathes its last: they transform into wraiths. To hear their mournful howls, one can surmise this is not a fate to be envied.\n\nWraiths are usually encountered at night, near cemeteries, catacombs and other such burial places, or else near the places that were important to them in life: abandoned homes, crumbling castles or forgotten bridges.\n\nWraiths suffer endless, indescribable pain. Filled with anger and a sense of having been wronged, they both envy the living and brim with overwhelming hatred for them. Like other specters, they are immaterial, meaning they are not harmed by fire, poison or weapons designed to provoke bleeding.\n\nWraiths can turn immaterial and are at times very difficult to wound. One can, however, force them to reassume a physical presence by trapping them with the Yrden Sign or by hitting them with slivers from a Moon Dust bomb. As with any such ghostly being, one should fight them using silver swords, preferably ones smeared with a thick coat of specter oil. Note as well that wraiths are particularly dangerous on moonless nights.",
+            "image": "bestiary_wraith_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "moon_dust"
+                ],
+                "oils": [
+                    "specter"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen",
+                    "yrden"
+                ]
+            }
+        }
+    ]
+}

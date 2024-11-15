@@ -1,0 +1,359 @@
+{
+    "title": "Relicts",
+    "subtitle": "Never hunt in the woods",
+    "image": "bestiary_cards_relicts",
+    "entries": [
+        {
+            "title": "Chorts",
+            "intro": "Chorts are smaller than fiends, true. But still big enough to kill.",
+            "author": "Agnes Thistle, herbalist from the Black Forest",
+            "detail": "Chorts are the somewhat smaller kin of fiends and bumbakvetches. Yet any witcher who thinks their diminutive stature means they present no danger commits a grave error \u2013 the kind that can end his career permanently. These denizens of dark and ancient woods are some of the most dangerous monsters known to man.\n\nLegends often mistake chorts for sylvans, ascribing to them the ability to speak, stand on two legs, gobble up cabbage, play pranks and work mischief around the household. The arrival of a true chort in a region soon puts an end to such tales. The creatures do not speak, at best communicating with each other through grunts, snorts and moans. They get about on four legs and as for their \"mischief\"... they destroy farmsteads, devouring anything that can be devoured, including cabbage, if such is available, but also extending to poultry, pork, the family dog and then the family itself.\n\nChorts fight with little finesse, running straight towards their opponent and trying to knock him to the ground with the force of their charge. After downing their foe they bite, kick and strike with their claw-tipped paws. Due to their size and four-legged posture, they are mostly unperturbed by the force of the Aard Sign, and the regenerative powers of their body allow any wounds they receive to heal at a rapid pace.",
+            "image": "bestiary_chort_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "devils_puffball"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Crones",
+            "intro": "Sister crones, hand in hand, terrors of the sea and land, thus do go about, about: thrice to thine and thrice to mine, and thrice again, to make up nine.",
+            "author": "Macveth, Act 1, Scene 3",
+            "detail": "The isolated corners of our world harbor creatures older than humans, older than academies and mages, older even than elves and dwarves. The Crones of Crookback Bog are such creatures. No one knows their true names, nor what breed of monstrosity they in fact are.\n\nCommon folk have given these three sisters the names Weavess, Brewess and Whispess, and call the threesome \"The Ladies of the Wood\" or simply \"The Good Ladies.\" The Crones act as the true sovereigns of Velen, whose inhabitants they help survive through harsh times in return for unquestioning obedience. They wield powerful magic, but one different from that of mages. They draw power from water and earth and are bound to the land in which they live. The Crones can hear everything that happens in their woods, predict the future, twist the threads of human lives and bring blessings as well as curses.\n\nThe Crones seem for all intents and purposes to be immortal. Magic elixirs keep them from aging and allow them to take the appearance of young women. These elixirs and their mystical ties to the swamps in which they live also give them supernatural strength and vitality.",
+            "image": "bestiary_crones_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "quen"
+                ]
+            }
+        },
+        {
+            "title": "Doppler",
+            "intro": "Your package? Your brother picked it up. You know, you two're damn near identical... Hey! Where you running off to?!",
+            "author": "Hanne Kluger, postmaster",
+            "detail": "Dopplers, also known as vexlings or changelings, are beings able to take on the form of any humanoid or animal they please. This transformation is no mere illusion able to be shattered with a simple spell, but an authentic and complete metamorphosis. This means no protective amulets or witcher medallions will signal a doppler's presence - they emanate the same aura as the being whose form they have assumed. This, combined with their incredible intellect and cunning, would make dopplers supreme assassins or thieves - had not nature endowed them with generous and timid spirits which make them avoid the shedding of blood at all costs.",
+            "image": "bestiary_doppler_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Fiends",
+            "intro": "I regret to inform Your Grace that Your Grace's son fell while hunting a fiend. He died on the spot, along with his squire, his guide, the beaters, his peasant entourage and his hounds.",
+            "author": "Kavin Jell, manager of the Villepin Estate near Vizima",
+            "detail": "Fiends are walking mountains of muscle capped with horned, tooth-filled heads. Like their rarer cousins, bumbakvetches, they live in thick forests, swamps and bogs. When possible they avoid humans, but when not possible, they kill them, and without much difficulty.\n\nTheir size alone makes fiends and bumbakvetches extremely dangerous \u2013 one blow from their powerful paws can kill a knight along with it's fully armored mount. Their enormous heft also makes them invulnerable to Aard: even witchers specializing in the power of Signs could not move one even an inch. Furthermore, any wounds they receive heal at lightning speed.\n\nIf that weren't trouble enough, fiends need not rely on their strength and stamina alone with fighting. They can also call on a more refined weapon: the third eye located in the center of their forehead, which they use to draw their prey into a state of hypnosis. During these times their victim does not see anything beyond this single burning eye \u2013 the last thing they see before their death.\n\nA fiend's only weakness is its fear of loud noises \u2013 bombs such as Samum or Devil's Puffball are thus quite effective when fighting this monster. Furthermore, a blade covered in relict oil can increase a witcher's chances of victory \u2013 or at least of walking away from the fight.",
+            "image": "bestiary_fiend_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum",
+                    "devils_puffball"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Fugas",
+            "intro": "",
+            "author": "",
+            "detail": "The devil Fugas held a very prestigious and responsible position during the Crones' sabbath: that of goon restricting access to the peak. He in no way resembled Torque, the irritating but harmless \"deovel\" Geralt and I had encountered many, many years prior.\n\nFugas' size resembled that of a somewhat overgrown troll, and he likewise displayed a troll's lack of subtlety. There was not a jot of mischievous puck or cunning verbal trickster about this \"devil.\" Instead, he carried out his task with the commitment and professionalism of a Novigrad bouncer.\n\nTrying to stop Geralt, though, turned out to be Fugas' dumbest and final idea, ending both his life and his flourishing career in the Crones' employ.",
+            "image": "bestiary_fugas_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Godling",
+            "intro": "Not too long ago the areas around peasant hamlets were chock full of guardian spirits. Today it's nigh unto impossible to spot a brownie, bucca or lutin. And godlings, they are always the first to go. Such is the price we pay for civilization's forward march.",
+            "author": "From the preface to \"The World We Have Lost\", by Professor Dorregaray",
+            "detail": "Godlings (sometimes mistaken for lutin) are woodland creatures dwelling in burrows and moss-covered hollow stumps on the outskirts of human settlements. They are similar to children in behavior and appearance, and, like children, delight in mischief. Godlings are deeply rooted in their home territory and perform acts of care and guardianship to those dwelling near their burrows. They watch over people as well as animals, but, shy creatures by nature, they try to do so while remaining unseen. Godlings are drawn to joy and innocence, and so delight in the company of children and usually only show themselves to the young.\n\nThese hard-working and clever creatures gladly perform small services for those in their care, asking only for respect and payment in the form of food or cast-off tools in return. They are easily offended by churlish, ungrateful or simply rude behavior. Godlings also treasure their peace and quiet. When the village a godling watches over becomes too populous or its inhabitants forget the old ways, it will abandon its burrow for good and walk off to destinations unknown.",
+            "image": "bestiary_godling_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Grottore",
+            "expansion": "BaW",
+            "intro": "Happened like this... A nasty rain caught me while I was out in the woods, so I thought to myself, \"I'll hide in some hollow, for gods' forbid I get soaked through and catch a cold at my age\". So I crawled into a cave. And there inside, something roars at me! Tore out of there so fast, wind had dried my coat by the time I got home.",
+            "author": "Velis Stail, herbalist",
+            "detail": "No one knows exactly when the spriggan called \"Grottore\" first made its home in the caves at the foot of Mount Gorgon. Spriggans usually prefer isolated backwoods and rarely make dens in caverns.\n\nYet Grottore seemed to have taken a liking to \"grottos\", giving rise to its nickname.\n\nThe monster was quite well-known among Beauclair knights, who often talked of it as a potential source of great glory. None were particularly eager to actually engage the monster in combat, however \u2013 none, that is, except for the young Knight Fran\u00e7ois\n\nGrottore proved to be a demanding foe. It possessed the ability to teleport, meaning it would appear directly in front of Geralt and mount a surprise attack, dealing strong blows that were impossible to parry. It used primeval magic to control tree roots, which would shoot from the ground on its command, dealing significant damage to any in their way.\n\nIt was resistant to the Aard Sign, but vulnerable to burning. Blows from a silver sword would do it harm, despite the bark-like hide covering it like armor.",
+            "image": "bestiary_grottore_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dimeritium"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Howler",
+            "intro": "Here about the contract? Any idea what this monster is?\n\nNaye, but proper huge it must be. Slaughtered no less than a dozen wolves",
+            "author": "Conversation overheard in Lindenvale",
+            "detail": "One is hard-pressed to name another area of our world more thoroughly riddled with monsters than Velen. There is on silver lining to this sad fact, however: the beasts living there must compete fiercely for hunting territory, meaning monsters often end up killing other monsters. An aggressive chort known as Howler went on just such a fratricidal rampage, tearing a pack of wolves to shreds before attacking and killing a fiend significantly larger than itself.\n\nHowler was a truly fearsome foe. Each one of its blows was enough to kill - only heavy armor or the Quen Sign could protect one from mortal damage. Particularly to be avoided was its charge - and whenever possible, the monster was best attacked from the side.\n\nGeralt slayed the Howler without much trouble, yet killing such a fierce fighter might very well have proved impossible, had not its previous conflicts with its monstrous kin weakened it considerably. The lesson, I suppose, is that when two monsters fight, a witcher wins.",
+            "image": "bestiary_howler_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "devils_puffball"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Imp",
+            "intro": "Really wanna see an angry witcher?\n\nDo you?",
+            "author": "Conversation overheard on the streets of Novigrad",
+            "detail": "The imp pestering the merchants of Novigrad turned out to be a doppler. These monsters usually avoid confrontation - to everyone's great relief, for when pinned they become extremely dangerous. Fighting them quickly turns into a fight against oneself. Or, to be precise, against a mirror image gifted with one's own strengths and abilities. In a conflict with such even odds, only luck - or destiny - decides the victor.",
+            "image": "bestiary_imp_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Kernun",
+            "intro": "We told the prick something lurked in them woods, but he refused to believe it...",
+            "author": "Louis Clsster, woodcutter",
+            "detail": "Novigrad - the greatest metropolis in the world, the acme of civilization, material proof - or so one is tempted to think - of mankind's ability to tame and control nature. Yet right outside the city walls lies the Novigrad Wilderness - and whoever sets foot in it soon finds out that man's primacy does not extend past the city walls.\n\nOne of the monsters who made its lair in that thick tangle was an old, powerful leshen. It killed any who strayed into its territory with its species' characteristic cruelty: lacerating them with razor-sharp claws, sending strangling plants shooting out of the ground or feeding them to packs of hungry wolves. If not for its vulnerabilities to fire, the Igni Sign included, and the protection of the Quen Sign, one could wager not even the toughest witcher would be able to slay the beast.\n\nGeralt of Rivia was only able to finally put an end to this leshen after a long and exhausting battle. Once the beast died, the way was clear for loggers to move into its former domain. The woods now gradually fall to the ax. Perhaps one day they'll disappear altogether - and their monstrous denizens along with them.",
+            "image": "bestiary_kernun_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dimeritium"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Leshen",
+            "intro": "We never hunt in these woods. Never. Even if it means the whole village starves.",
+            "author": "Mulliver, ealdorman of Hoshberg in lower Aedirn",
+            "detail": "Leshens dwell in dense, primeval woods. Fiercely territorial creatures, they hunt with stealth and cunning as their only companions. They use their inborn magic to control the plants and animals within their territory \u2013 and so, when stalking them, half the battle is merely getting near enough to strike. Leshens old enough to earn the appellation \"ancient\" wield advanced skills and tactics that make them particularly dangerous.",
+            "image": "bestiary_leshen_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dimeritium"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Morvudd",
+            "intro": "Ate only the entrails. Fussy.",
+            "author": "Geralt of Rivia",
+            "detail": "They say every journey made in the Skellige Isles ends in adventure. And sometimes, that adventure ends in death. Such was the case for a group of adventure-seeking Skelligers who set out in search of treasure in forgotten ruins - which turned out to lie in the hunting grounds of a powerful fiend known as Morvudd.\n\nThe witcher knew there was little room for error in a fight with such a creature. A moment of carelessness and the beast could hypnotize him with its third eye, then tear him to shreds while he remained in a trance. Morvudd was a particularly large individual, so one could presume fast attacks would not prove effective against it - and that its blows would kill anyone not protected with heavy armor or the Quen Sign.\n\nThough Morvudd killed the Skellige warriors without much trouble, it proved no match for the witcher. It even tried to save its life by fleeing at one point, but that only delayed its inevitable death by the witcher's silver blade.",
+            "image": "bestiary_morvudd_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum",
+                    "devils_puffball"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Shaelmaar",
+            "expansion": "BaW",
+            "intro": "The earth's innards are home to mighty strange and fearsome beasts. Were they ever to decide to ramble up to the surface, we'd all be gutted the very first day o' the invasion.",
+            "author": "Ramus Vendenratz, Mahakam foreman.",
+            "detail": "Shaelmaars spend most of their lives deep underground, having no contact with the world up above. At times, however, a shaelmaar will dig its way to the surface and devour any men within its reach. Some shaelmaars also burrow tunnels close to the surface, collapsing buildings and causing tremors in the process.\n\nSince shaelmaars are blind, they find their way by sensing vibrations and listening for sounds. Thus the best tactic when fighting such a monster is to hurl something heavy or noisy against a nearby boulder or wall. Then pray silently that the beast will roll towards the sound and knock itself out upon striking into the obstacle.\n\nClumsy shaelmaars might seem easy targets to hit, but when even your strongest blows bounce off the thick armor plating their backs, you realize they've little need to dodge. When threatened, a shaelmaar will curl up in a ball and roll forward with tremendous impetus, becoming an unstoppable force crushing everything in its path.\n\nA witcher's best bet is to stay out of a charging shaelmaar's way and strike after its charge fails, revealing its vulnerable underbelly.\n\nA witcher of particular cunning and agility will use the Aard Sign or a bomb (Samum works particularly well for this purpose) to cause the shaelmaar to slam into an obstacle at full speed, significantly lowering its fighting ability and opening the witcher's path to victory. Trying to disorient a shaelmaar in this way is a risky maneuver, but can be effective, especially when third parties are threatened.",
+            "image": "bestiary_shaelmaar_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Shaelmaar from the Emperor of Nilfgaard",
+            "expansion": "BaW",
+            "intro": "",
+            "author": "",
+            "detail": "Gladiator fights in massive arenas are a popular form of entertainment in Nilfgaard. Usually the fighters are slaves specially trained for this purpose, yet at times the arena masters pit humans against monsters. The shaelmaar Geralt had to fight in the tourney grounds was a present from the emperor to his relative, Duchess Anna Henrietta. It had been caught while young and prepared for its ultimate purpose by Nilfgaardian trainers. That does not mean it was tame, however \u2013 in fact, its wildness and inborn ferocity had not been dulled one whit. Like all creatures of its species, it was blind but could unerringly pinpoint its opponents' location using echolocation. The shaelmaar had thick armor and near impenetrable skin. It could also roll into a ball and charge its opponents. Its underbelly, however, was relatively vulnerable and became exposed when its charge failed.",
+            "image": "bestiary_shaelmaarfromeon_727x654",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Spriggans",
+            "expansion": "BaW",
+            "intro": "I was gathering berries, as one does this time of year, when suddenly the trees shook and I saw this... this thing...",
+            "author": "fragment of a story told by a woman returning from the woods.",
+            "detail": "Spriggans are a subspecies of the monsters known as leshens. One is liable to come across them in inaccessible, unfrequented woodlands. They do not usually attack humans if unprovoked, but when irritated they can be quite fearsome, and, as they possess considerable strength, they are capable of doing great damage. Their appetite is such that they can devour more flesh than an army at a wedding.\n\nEach spriggan has mastery over plants and is inextricably tied to them. Thus if someone destroys greenery in its domain, it immediately comes to punish the disturber.",
+            "image": "bestiary_spriggan_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dimeritium"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "Sylvans",
+            "intro": "Sylvans are cruel, greedy and treacherous. Still, I prefer them to dh'oine.",
+            "author": "Yaevinn, legendary Scoia'tael commander",
+            "detail": "Sylvans and Yakshas, a kindred species, are extremely rare woodland creatures whose appearance combines traits of goats and rotund men. These beings usually pose little danger, for they limit their contact with humans to playing harmless (though often bothersome) tricks and eating crops from their fields.",
+            "image": "bestiary_sylvan_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum",
+                    "devils_puffball"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        },
+        {
+            "title": "The Caretaker",
+            "expansion": "HoS",
+            "intro": "There are more things in heaven and earth than are dreamt of in philosophy.",
+            "author": "Bartolomeo Darez, after trying to contact creatures from another plane and landing in an insane asylum.",
+            "detail": "The Caretaker served with the indifference of a golem, and proved as fierce in battle as it was diligent in its labors. It felt no pain \u2013 in fact, each blow it received seemed to give it strength, as did each blow it landed on Geralt with the spade it wielded as a weapon. What is more, the Caretaker was able to summon powerful spirits from the graves it had dug and could heal itself by absorbing them. The witcher had a hard time evading the devastating strikes of its weapon, and his only chance at wounding the creature came when it would stick its spade in the ground to draw on otherworldly energy in an attempt to petrify its foes with fright.\n\nThe being known as the Caretaker had been summoned to the von Everec estate from another realm, making \"demon\" its most accurate designation. The Caretaker had been forced into servitude by magic. Its tasks - to care for the house and protect it from intruders. It performed these pedantically, tending the flowers, repairing the fences, tidying the yard... and murdering all intruders who set foot on the grounds, then burying their corpses in neat rows on untended land just beyond the manor garden's bounds.",
+            "image": "bestiary_thecaretaker_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "The Monster of Tufo",
+            "expansion": "BaW",
+            "intro": "A knight errant might manage to kill a ghoul and a peasant with a pack of dogs can at times take down a bear. Yet let us make one thing clear: not even the finest steel armor ever forged or the collar bone of Saint Plegmund himself will give a mortal man any chance of surviving a fight against the creatures that dwell deep beneath the earth.",
+            "author": "veteran Toussaint Ducal Guardsman, briefing new recruits",
+            "detail": "Imagine a creature that kills men, feeds on kikimore eggs and digs underground tunnels so wide they'd fit the emperor of Nilfgaard's coronation carriage along with a team of six horses. And now imagine this creature digs with such force, the earth quakes and the houses up above tremble and collapse. Noting these symptoms, Geralt was at first unsure what sort of a beast he could be dealing with, knowing only that he needed to be very, very careful.\n\nOnly after he carefully examined the monster's tracks did he realize it had to be an aged female shaelmaar.\n\nThe monster destroying Tufo turned out to be an old shaelmaar matriarch. Geralt hunted it down and fought it deep under the ground.\n\nThough blind like all members of its species, this creature could easily maneuver by sensing vibrations and noises. As long as Geralt stood quiet and motionless, he was safe. Yet if he took one step or breathed a bit too loud, the matriarch would start moving in his direction with great speed.\n\nGeralt had a very difficult time taking out this monster, whose armor could not be pierced by any of his weapons. In the end, however, he succeeded and the monster of Tufo was no more.",
+            "image": "bestiary_themonsteroftufo_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "samum"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "aard"
+                ]
+            }
+        },
+        {
+            "title": "Wicked Witch",
+            "expansion": "BaW",
+            "intro": "Once upon a time, there was a wicked witch. Every day after supper she'd drink a glass of freshly-squeezed corpse juice...",
+            "author": "Karl Hrimm, writer of children's fables",
+            "detail": "Though evil witches are often considered creatures born of the overactive imaginations of fabulists and mythologists, cartoonish characters only a child would ever be frightened of, there are accounts of men who claim to have happened across one of these improbable beings. All these accounts agree that the witch not only did in fact eat men, but had mastered the cooking of humans to a fine art. They are said to be particularly fond of children's liver fried in butter and served in a saffron sauce, balsamic vinegar-marinated fingers roasted to a golden crisp and, yes, even freshly-squeezed corpse juice. It should be noted here that all the above-mentioned witnesses who swore they saw such a witch were patients of the Ellander Institute for the Mentally Ill, thus the veracity of their testimony is highly debatable.",
+            "image": "bestiary_wickedwitch_654x727",
+            "vulnerabilities": {
+                "bombs": [],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": []
+            }
+        },
+        {
+            "title": "Woodland Spirit",
+            "intro": "We've offended him, Sven. The Woodland Spirit seeks revenge. This here is him saying we've strayed from the old paths.",
+            "author": "Harald of Fayrlund",
+            "detail": "Some monsters are so powerful local populaces begin worshiping them as gods. Such was the case with the leshen dwelling in the woods near the Skellige village of Fayrlund. The elders were absolutely convinced the monster watched over them by defending them from their enemies and training their hunters.\n\nThe witcher had his doubts, however. Leshens are mean, self-serving creatures - and the ancient one living in the woods near Fayrlund was surely no exception.\n\nGeralt knew freeing the villagers from their supposed protector's grasp would be no easy task - if he decided to even try. The leshen known as the Woodland Spirit was so powerful as to have mastered the art of marking. This meant the monster had inserted his essence into one of the residents of Fayrlund. As long as this unfortunate soul remained alive and near the settlement, the leshen would always be reborn near its lair.\n\nYet even with the marked one eliminated, killing the leshen would be no easy task. The monster commanded the obedience of the denizens of the woods - it could thus call on wolves, ravens or even the trees themselves for help. Luckily, it had a weakness as well: it was vulnerable to fire, that born of the Igni Sign in particular.",
+            "image": "bestiary_woodlandspirit_654x727",
+            "vulnerabilities": {
+                "bombs": [
+                    "dimeritium"
+                ],
+                "oils": [
+                    "relict"
+                ],
+                "potions": [],
+                "signs": [
+                    "igni"
+                ]
+            }
+        }
+    ]
+}
